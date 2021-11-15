@@ -1,8 +1,7 @@
 
 
-## Topics
+## topics to explore by yourself.
 
-- Welcome
 - Manage index
 - Manage documents 
 - Manage mappings
